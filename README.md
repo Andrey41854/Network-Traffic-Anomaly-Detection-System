@@ -20,6 +20,7 @@
 
 ##Структура проекта
 
+```text
 intrusion_detection_system_v2.0/
 ├── data/
 │   ├── raw/                   # Исходные (сырые) данные
@@ -41,3 +42,4 @@ intrusion_detection_system_v2.0/
 ├── run_app.R                  # Запуск Shiny-приложения
 ├── first_run.R                # Полный запуск всего пайплайна
 ├── launch_app.bat             # Автозапуск на Windows
+```
