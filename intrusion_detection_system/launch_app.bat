@@ -1,0 +1,6 @@
+@echo off
+cd /d %~dp0%
+echo Запуск Shiny-приложения...
+Rscript run_app.R
+echo Нажмите любую клавишу, чтобы закрыть...
+pause >nul
